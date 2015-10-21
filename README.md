@@ -57,3 +57,5 @@ front-end-books-recommend
 
 25.[常用API文档大全](http://tool.oschina.net/apidocs)
 26.[前端daniu]http://caibaojian.com/some-fe
+
+更新地址：https://github.com/markyun/My-blog/tree/master/Front-end-Developer-Questions
